@@ -1,0 +1,5 @@
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\bin\Release\RationalNumbers.exe.config
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\bin\Release\RationalNumbers.exe
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\bin\Release\RationalNumbers.pdb
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\obj\Release\RationalNumbers.exe
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\obj\Release\RationalNumbers.pdb

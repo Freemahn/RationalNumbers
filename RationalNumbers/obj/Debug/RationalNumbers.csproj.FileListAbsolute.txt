@@ -1,0 +1,6 @@
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\bin\Debug\RationalNumbers.exe.config
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\bin\Debug\RationalNumbers.exe
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\bin\Debug\RationalNumbers.pdb
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.csprojResolveAssemblyReference.cache
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.exe
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbers\obj\Debug\RationalNumbers.pdb

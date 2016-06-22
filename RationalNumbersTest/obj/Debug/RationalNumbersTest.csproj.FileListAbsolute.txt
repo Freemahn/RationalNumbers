@@ -1,0 +1,8 @@
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\bin\Debug\RationalNumbersTest.dll
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\bin\Debug\RationalNumbersTest.pdb
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\bin\Debug\RationalNumbers.exe
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\bin\Debug\RationalNumbers.pdb
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\obj\Debug\RationalNumbersTest.csprojResolveAssemblyReference.cache
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\obj\Debug\RationalNumbersTest.dll
+c:\users\freemahn\documents\visual studio 2015\Projects\RationalNumbers\RationalNumbersTest\obj\Debug\RationalNumbersTest.pdb
